@@ -1,0 +1,9 @@
+pytube 
+openai-whisper 
+yt-dlp
+youtube-transcript-api 
+beautifulsoup4 
+requests 
+groq 
+python-telegram-bot
+langdetect
