@@ -12,8 +12,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Replace with your actual tokens/keys
-TELEGRAM_TOKEN = "7823408072:AAELtH3BLTQ_RDTfEZ-yp9BlaUV8vVaYAr0"
-GROQ_API_KEY = "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"
+TELEGRAM_TOKEN = ""
+GROQ_API_KEY = ""
 
 # Initialize Groq client
 groq_client = groq.Client(api_key=GROQ_API_KEY)
